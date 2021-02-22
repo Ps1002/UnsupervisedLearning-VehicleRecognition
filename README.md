@@ -1,2 +1,0 @@
-# UnsupervisedLearning-VehicleRecognition
-vehicle.csv
